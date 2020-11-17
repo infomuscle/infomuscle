@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+![infomuscle's github stats](https://github-readme-stats.vercel.app/api?username=infomuscle&show_icons=true&theme=vue)
+
 <!--
 **infomuscle/infomuscle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
