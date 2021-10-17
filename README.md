@@ -5,6 +5,10 @@
 📄 Resume: https://bit.ly/336nmuY  
 
 
+<a href="https://linkedin.com/in/bokeunjeong" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+</a>
+
 <!--
 **infomuscle/infomuscle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
