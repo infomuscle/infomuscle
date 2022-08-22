@@ -16,27 +16,3 @@
 <a href="https://bortfolio.tistory.com" target="_blank">
 <img src=https://img.shields.io/badge/tech%20blog-%23ff5545.svg?&style=for-the-badge&logo=tistory&logoColor=white alt=tistory />
 </a>
-
-
-
-
-
-<!--
-🖥 Website: https://bokeunjeong.com/  
-✏️ Blog: https://bortfolio.tistory.com/  
-📄 Resume: https://bit.ly/336nmuY  
-
-
-**infomuscle/infomuscle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
