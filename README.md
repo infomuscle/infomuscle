@@ -16,3 +16,21 @@
 <a href="https://bortfolio.tistory.com" target="_blank">
 <img src=https://img.shields.io/badge/tech%20blog-%23ff5545.svg?&style=for-the-badge&logo=tistory&logoColor=white alt=tistory />
 </a>
+
+<br>
+
+<a href="https://bortfolio.tistory.com" target="_blank">
+<img src=https://img.shields.io/badge/java-%23ff5545.svg?&style=for-the-badge&logo=java&logoColor=white alt=java />
+</a>
+<a href="https://bortfolio.tistory.com" target="_blank">
+<img src=https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white alt=spring />
+</a>
+<a href="https://bortfolio.tistory.com" target="_blank">
+<img src=https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white alt=oracle />
+</a>
+<a href="https://bortfolio.tistory.com" target="_blank">
+<img src=https://img.shields.io/badge/postgresql-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white alt=postgresql />
+</a>
+<a href="https://bortfolio.tistory.com" target="_blank">
+<img src=https://img.shields.io/badge/postgresql-%233776AB.svg?&style=for-the-badge&logo=postgresql&logoColor=white alt=postgresql />
+</a>
