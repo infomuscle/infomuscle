@@ -1,3 +1,4 @@
+### I've had
 ![infomuscle's github stats](https://github-readme-stats.vercel.app/api?username=infomuscle&show_icons=true&theme=vue)
 
 ### Visit
@@ -18,9 +19,8 @@
 </a>
 
 <br>
-<br>
 
-### I'm Available
+### I'm experienced with
 
 <a href="#" target="_blank">
 <img src=https://img.shields.io/badge/java-%23ff5545.svg?&style=for-the-badge&logo=java&logoColor=white alt=java />
@@ -47,10 +47,8 @@
 </a>
 
 <br>
-<br>
 
-
-### Download Nyantarctic Adventure 
+### Download Nyantarctic Adventure on
 
 <a href="https://apps.apple.com/kr/app/%EB%83%A5%EA%B7%B9%ED%83%90%ED%97%98/id1567917739" target="_blank">
 <img src=https://img.shields.io/badge/app%20store-%230D96F6.svg?&style=for-the-badge&logo=app-store&logoColor=white alt=app%20store />
