@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/resume(eng)-%236db33f.svg?&style=for-the-badge&logo=springboot&logoColor=white alt=website />
 </a>
 
-<a href="https://bit.ly/336nmuY" target="_blank">
+<a href="https://bit.ly/3kJOcWb" target="_blank">
 <img src=https://img.shields.io/badge/resume(kor)-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white alt=notion />
 </a>
 
