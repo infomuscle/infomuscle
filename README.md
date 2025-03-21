@@ -16,10 +16,6 @@
 </a>
 
 <a href="#" target="_blank">
-<img src=https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white alt=oracle />
-</a>
-
-<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white alt=apache%20kafka />
 </a>
 
